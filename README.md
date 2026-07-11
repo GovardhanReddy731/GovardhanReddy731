@@ -217,8 +217,8 @@ AI-driven mentoring platform built during my internship at HEPro AI, combining r
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GovardhanReddy731&show_icons=true&theme=default&hide_border=true&title_color=1E3A8A&icon_color=1E3A8A&text_color=333333&bg_color=FFFFFF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovardhanReddy731&layout=compact&hide_border=true&title_color=1E3A8A&text_color=333333&bg_color=FFFFFF" width="42%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=GovardhanReddy731&show_icons=true&theme=default&hide_border=true&title_color=1E3A8A&icon_color=1E3A8A&text_color=333333&bg_color=FFFFFF" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GovardhanReddy731&layout=compact&hide_border=true&title_color=1E3A8A&text_color=333333&bg_color=FFFFFF" width="42%"/>
 
 <br/>
 
