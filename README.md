@@ -40,7 +40,7 @@ role:            "AI & ML Engineer | Software Engineer"
 education:       "B.E. in Artificial Intelligence & Machine Learning, New Horizon College of Engineering (CGPA: 8.94)"
 graduation:      "2027 (Pursuing)"
 focus_areas:     ["Computer Vision", "Deep Learning", "NLP", "Full-Stack Development", "RAG & LLMs"]
-current_intern:  "HEPro AI — AI Mentoring Systems"
+internship:      "HEPro AI — AI Mentoring Systems"
 languages_human: ["English", "Kannada", "Hindi", "Telugu"]
 fun_fact:        "I like turning research papers into things that actually run in production."
 ```
@@ -165,7 +165,7 @@ Medical image classification system that detects skin allergies from user-upload
 **Tech Stack:** `Python` `TensorFlow` `OpenCV` `Flask` `React` `Tailwind CSS` `MongoDB` `Cloud Deployment`
 
 [![Repo](https://img.shields.io/badge/Repository-View_Code-1E3A8A?style=for-the-badge&logo=github)](https://github.com/GovardhanReddy731/SkinDiseaseClassifier)
-[![Demo](https://img.shields.io/badge/Live_Demo-Coming_Soon-black?style=for-the-badge&logo=vercel)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-3776AB?style=for-the-badge&logo=python)](https://govadhan.pythonanywhere.com/login/)
 
 ---
 
