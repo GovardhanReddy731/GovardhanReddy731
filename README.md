@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1E3A8A&height=220&section=header&text=Govardhan%20G%20A&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1E3A8A&height=220&section=header&text=Govardhan%20G%20A&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20and%20Machine%20Learning%20Engineer%20%7C%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=1E3A8A&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Full-Stack+%2B+ML+Systems+Builder;Turning+Research+into+Production+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=1E3A8A&center=true&vCenter=true&width=650&lines=AI+and+Machine+Learning+Engineer;Computer+Vision+%7C+Deep+Learning+%7C+NLP;Full-Stack+%2B+ML+Systems+Builder;Turning+Research+into+Production+Software" alt="Typing SVG" />
 
 </div>
 
