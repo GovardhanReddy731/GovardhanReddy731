@@ -10,7 +10,7 @@
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:anjaneyareddygova123@gmail.com">
   <img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/GovardhanReddy731">
@@ -275,7 +275,7 @@ Reach out — I reply fast.
 <a href="https://www.linkedin.com/in/govardhan-reddy731/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:anjaneyareddygova123@gmail.com">
   <img src="https://img.shields.io/badge/Send_an_Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
