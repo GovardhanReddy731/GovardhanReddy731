@@ -189,7 +189,7 @@ A premium, production-ready developer portfolio built to present my AI/ML and fu
 
 **Tech Stack:** `Next.js 14` `React` `TypeScript` `Tailwind CSS` `Framer Motion` `Lucide React`
 
-[![Repo](https://img.shields.io/badge/Repository-View_Code-1E3A8A?style=for-the-badge&logo=github)](https://github.com/GovardhanReddy731/YOUR-PORTFOLIO-REPO-NAME)
+[![Repo](https://img.shields.io/badge/Repository-View_Code-1E3A8A?style=for-the-badge&logo=github)](https://github.com/GovardhanReddy731/govardhan-portfolio)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Online-000000?style=for-the-badge&logo=vercel)](https://your-live-portfolio-url.vercel.app)
 
 ### 🌍 Tourism Development Platform
