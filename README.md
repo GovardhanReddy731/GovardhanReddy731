@@ -141,7 +141,7 @@ Real-time computer vision system that detects road accidents from live and recor
 **Tech Stack:** `Python` `FastAPI` `OpenCV` `YOLOv8` `DeepSORT` `MediaPipe` `LSTM` `WebSockets` `Twilio` `HTML/CSS/JS`
 
 [![Repo](https://img.shields.io/badge/Repository-View_Code-1E3A8A?style=for-the-badge&logo=github)](https://github.com/GovardhanReddy731/Accident_Detection_Alert_System)
-[![Demo](https://img.shields.io/badge/Live_Demo-Coming_Soon-black?style=for-the-badge&logo=vercel)](#)
+[![Demo]([https://img.shields.io/badge/Live_Demo-Coming_Soon-black?style=for-the-badge&logo=vercel](https://govardhan-portfolio-3no5qlzum-govardhanreddy731s-projects.vercel.app/))](#)
 
 ---
 
