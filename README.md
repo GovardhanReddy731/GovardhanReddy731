@@ -168,6 +168,29 @@ Medical image classification system that detects skin allergies from user-upload
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Online-3776AB?style=for-the-badge&logo=python)](https://govadhan.pythonanywhere.com/login/)
 
 ---
+### 💼 Personal Portfolio Website
+**`2026`**
+
+A premium, production-ready developer portfolio built to present my AI/ML and full-stack work — designed and engineered to match the quality bar of portfolios from engineers at top product companies.
+
+**Key Features**
+- Fully responsive, dark/light mode portfolio with a custom animated "signal trace" motif tying back to my computer vision work
+- Animated hero with typing effect, scroll-reveal sections, and a canvas particle background
+- Categorized, animated skill proficiency bars across Programming, AI/ML, Web, Tools, and Cloud
+- Filterable project showcase with per-project "Key Features" and "Engineering Challenges" breakdowns
+- Live GitHub stats, contribution graph, and LeetCode/HackerRank/CodeChef profile cards
+- Working contact form wired to a serverless API route
+- SEO-optimized (metadata, Open Graph, sitemap, robots.txt) and built for high Lighthouse scores
+
+**Engineering Challenges**
+- Structuring all site content around a single typed data source (`resume.ts`) so the whole site updates from one file
+- Building a lightweight canvas particle system with zero external animation libraries, respecting `prefers-reduced-motion`
+- Self-hosting a GitHub stats service to avoid rate-limit outages from the shared public instance
+
+**Tech Stack:** `Next.js 14` `React` `TypeScript` `Tailwind CSS` `Framer Motion` `Lucide React`
+
+[![Repo](https://img.shields.io/badge/Repository-View_Code-1E3A8A?style=for-the-badge&logo=github)](https://github.com/GovardhanReddy731/YOUR-PORTFOLIO-REPO-NAME)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-000000?style=for-the-badge&logo=vercel)](https://your-live-portfolio-url.vercel.app)
 
 ### 🌍 Tourism Development Platform
 **`Mar 2024 – May 2024`**
