@@ -7,9 +7,10 @@
 <a href="https://www.linkedin.com/in/govardhan-reddy731/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="#">
+<a href="https://govardhan-portfolio-3no5qlzum-govardhanreddy731s-projects.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
 <a href="mailto:anjaneyareddygova123@gmail.com">
   <img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
